@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Signo23
-- 👀 I’m interested in sports, culture and programmng
+- 👀 I’m interested in sports, culture and programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: on Instagram @lorenzo_signoretti
 
