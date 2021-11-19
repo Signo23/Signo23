@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Signo23
 - 👀 I’m interested in sports, culture and programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: on Instagram @lorenzo_signoretti
 
 <!---
