@@ -15,14 +15,8 @@ I’m currently learn Angular
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Signo23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Signo_Lore)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Signo23&icon=0&color=1)](https://visitcount.itsvg.in)
